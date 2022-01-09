@@ -4,7 +4,7 @@
 </p>
 
 ---
-<h3 align="center">I'm a Passionate Physics, open science lover, and inclusive AI advocate.</h3>
+<h3 align="center">I'm a Passionate Physicist, open science lover, and addicted to learning!</h3>
 
 <br>
 
