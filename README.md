@@ -14,9 +14,9 @@
 - 📫 How to reach me: [gcalabrese296@gmail.com](mailto:gcalabrese296@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 - ⚡ Fun fact: Open to concert which I do not like also
 
-<p align="center">
+<!-- <p align="center">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=mtpatter&theme=dark&hide_border=true" width = 400>
-</p>
+</p> -->
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gianvito-calabrese/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gianvitocalabrese" height="30" width="30" /></a>
