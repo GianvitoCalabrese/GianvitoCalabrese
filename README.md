@@ -18,6 +18,7 @@
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=mtpatter&theme=dark&hide_border=true" width = 400>
 </p> -->
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&style=social&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/gianvito-calabrese/)
+<!-- <p align="center">
 <a href="https://www.linkedin.com/in/gianvito-calabrese/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gianvitocalabrese" height="30" width="30" /></a>
-</p>
+</p> -->
